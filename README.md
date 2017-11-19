@@ -1,6 +1,6 @@
 # ML-End-to-End
 
-This is a bare minimum boilerplate kind of End-to-End Machine Learning application.
+This is an End-to-End bare minimum boilerplate Machine Learning application.
 
 Steps...
   1. Loads a toy dataset
