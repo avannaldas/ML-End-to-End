@@ -18,3 +18,4 @@ Application contains...
   | iris_clf_model.pkl | Model saved to disk |
 
 
+P.S.: _This is a first cut boilerplate. I'm planning to improve, extend this as and when this can be prioritized, keeping it as generic as possible to be re-used. Ideas, suggestions, contributions welcome :)_
