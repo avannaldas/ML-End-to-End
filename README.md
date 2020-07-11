@@ -16,6 +16,3 @@ Application contains...
   | data_wrangler.py | Represents middleware to pre-processes data. Consumed by both, training and prediction steps | 
   | Prediction Service.ipynb | Flask REST API which consumes trained model through data_wrangler |
   | iris_clf_model.pkl | Model saved to disk |
-
-
-P.S.: _This is a first cut boilerplate. I'm planning to improve, extend this as and when this can be prioritized, keeping it as generic as possible to be re-used. Ideas, suggestions, contributions welcome :)_
